@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_Top">8dp</dimen>
+    <dimen name="margin_End">8dp</dimen>
+    <dimen name="margin_Bottom">8dp</dimen>
+    <dimen name="margin_Start">8dp</dimen>
+    <dimen name="layout_Height_Plants">100dp</dimen>
+    <dimen name="card_Corner">5dp</dimen>
+    <dimen name="layout_Margin">3dp</dimen>
+    <dimen name="morgin_Left">8dp</dimen>
+    <dimen name="morgin_Right">8dp</dimen>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlantsHandBook</string>
+    <string name="gravity_Center">center</string>
+    <string name="add_Item_Button">Add Plant</string>
+</resources>
